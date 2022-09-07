@@ -12,12 +12,6 @@
           "package_name": "com.tsato.materialcalculator"
         }
       },
-      "client_info": {
-        "mobilesdk_app_id": "1:230402996301:android:57b334ef9c866d50ef0404",
-        "android_client_info": {
-          "package_name": "com.tsato.materialcalculator.staging"
-        }
-      },
       "oauth_client": [
         {
           "client_id": "230402996301-eggcno9h0e281jfbpe2qk4hld0a410ln.apps.googleusercontent.com",

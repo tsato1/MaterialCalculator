@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230402996301",
+    "project_id": "materialcalculator-303a5",
+    "storage_bucket": "materialcalculator-303a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230402996301:android:57b334ef9c866d50ef0404",
+        "android_client_info": {
+          "package_name": "com.tsato.materialcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230402996301-eggcno9h0e281jfbpe2qk4hld0a410ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAckV70zveO4sDd01qkEFp4LMwiSUCfZ4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230402996301-eggcno9h0e281jfbpe2qk4hld0a410ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -9,7 +9,7 @@ class ExpressionEvaluatorTest {
 
     @Test
     fun `Simple expression properly evaluated`() {
-        val evaluator = ExpressionEvaluator(
+        evaluator = ExpressionEvaluator(
             listOf(
                 ExpressionPart.Number(3.0),
                 ExpressionPart.Op(Operation.ADD),
@@ -28,7 +28,7 @@ class ExpressionEvaluatorTest {
 
     @Test
     fun `Expression with parentheses properly evaluated`() {
-        val evaluator = ExpressionEvaluator(
+        evaluator = ExpressionEvaluator(
             listOf(
                 ExpressionPart.Number(5.0),
                 ExpressionPart.Op(Operation.MULTIPLY),

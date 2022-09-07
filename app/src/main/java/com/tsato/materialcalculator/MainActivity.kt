@@ -11,6 +11,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             MaterialCalculatorTheme {
+                Constants.BASE_URL
                 CalculatorScreen()
             }
         }
